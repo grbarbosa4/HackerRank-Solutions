@@ -1,4 +1,4 @@
 # HackerRank-Solutions
 My solutions of HackerRank:
 
-Here, I inserted some solutions from the Hacker Rank website, which I use to practice some functions and exercise the programming logic.
+Here, I've inserted some solutions from the Hacker Rank website (www.hackerrank.com), which I use to practice some functions and exercise programming logic.
